@@ -9,8 +9,7 @@ public class first {
         int a = 10;
         int b = 20;
 
-        String name = "Aryan";
-        // String name2 = new String("Aryan");
+        String name = "Armaan";
 
         System.out.println(name.toUpperCase());
         System.out.println(name.toLowerCase());
