@@ -24,7 +24,7 @@ public class lambda {
                 System.out.println("Flying from anonymous");
             }
             
-        };
+        }; 
         in obj3 = () -> System.out.println("Flying from lambda"); 
         obj.fly();
         obj1.fly();
